@@ -1,4 +1,5 @@
 tensorflow==2.12.0
+python-box
 numpy
 pandas
 gdown
@@ -8,7 +9,7 @@ notebook
 numpy
 matplotlib
 seaborn
-python-box==6.0.2
+python-box 
 pyYAML
 tqdm
 ensure==1.0.2
